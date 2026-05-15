@@ -16,7 +16,7 @@ Welcome to the Cyber Security and Ethical Hacking Internship Toolkit! This repos
 
 ---
 
-## 🚀 Project Overview
+## 🚀 Intership Overview
 This repository serves as a comprehensive portfolio piece demonstrating practical coding skills applied to cyber security concepts. 
 - **Language:** Python 3.x
 - **Focus Areas:** Integrity (Hashing), Web Sec (OWASP Top 10), Network Sec (Scanning/Brute-Forcing), Confidentiality (AES Encryption).
